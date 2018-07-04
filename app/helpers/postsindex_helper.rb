@@ -1,0 +1,2 @@
+module PostsindexHelper
+end
