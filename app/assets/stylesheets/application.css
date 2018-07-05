@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.linkss 
+{
+  color: green;
+  text-decoration: none;
+  margin-right: 20px
+
+}
+
+.asd
+{
+	text-decoration: none;
+    margin-right: 20px;
+}
